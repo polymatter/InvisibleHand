@@ -1,0 +1,1 @@
+This is a simple simulation of basic capitalist economics, inspired by Chapter 4 of "Exploring Everyday Things with R and Ruby", by Sau Sheong Chang
